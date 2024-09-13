@@ -1,2 +1,2 @@
 # mygemsgit
-This is a description.
+This is a mygemsgit repository for Joeyyq's video.
